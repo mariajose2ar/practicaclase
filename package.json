@@ -1,0 +1,10 @@
+{
+  "name": "calculadora-node",
+  "version": "1.0.0",
+  "description": "Calculadora simple en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
